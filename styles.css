@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color: rebeccapurple;
+  color: rgb(149, 83, 224);
+}
+
+h1, h2 {
+  color: rgb(238, 78, 238);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
